@@ -1,4 +1,4 @@
-# TypeScript-Example
+# TypeScript-Example | By Bocaletto Luca
 TypeScript-Example collection
 
 calc-cli/
@@ -7,9 +7,4 @@ calc-cli/
 └─ src/
    └─ index.ts
 
-git clone https://github.com/bocaletto-luca/calc-cli.git
-cd calc-cli
-npm install
-npm run build
-# Ora puoi:
-./dist/index.js add 1 2 3      # => Risultato: 6
+clone https://github.com/bocaletto-luca/TypeScript-Example/
