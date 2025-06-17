@@ -1,4 +1,6 @@
-# TypeScript-Example | By Bocaletto Luca
+# TypeScript-Example
+#### Author: By Bocaletto Luca
+
 TypeScript-Example collection
 
 calc-cli/
