@@ -1,7 +1,7 @@
-# TypeScript-Example
+# TypeScript Language - Example
 #### Author: By Bocaletto Luca
 
-TypeScript-Example collection
+TypeScript Language - Example collection
 
 calc-cli/
 ├─ package.json
