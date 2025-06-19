@@ -3,10 +3,10 @@
 
 TypeScript Language - Example collection
 
-calc-cli/
-├─ package.json
-├─ tsconfig.json
-└─ src/
-   └─ index.ts
+      calc-cli/
+      ├─ package.json
+      ├─ tsconfig.json
+      └─ src/
+         └─ index.ts
 
 clone https://github.com/bocaletto-luca/TypeScript-Example/
